@@ -8,12 +8,12 @@ Note that if there are any issues filling this out with unresponsive group mates
 | | | 
 | --- | --- | 
 | Name of Project: | | 
-| Name of students in clinic: | [Name #1] | 
+| Name of students in clinic: | Henry Josephson | 
 | | [Name #2] | 
 | | [Name #3]
 | | [Name #4]
-| Name of Teaching Assistant (if applicable): | |
-| Name of your Faculty Mentor: | | 
+| Name of Teaching Assistant (if applicable): | Grace Shao |
+| Name of your Faculty Mentor: | Tim Hannifan | 
 
 
 ### Meeting Times
@@ -29,9 +29,9 @@ There are two types of meetings that you need to schedule: Your Weekly Mentor me
 
 | | | 
 | --- | --- | 
-| Weekly Mentor Meeting Day | | 
-| Weekly Mentor Meeting Time |  |
-| Weekly Mentor Meeting Location | | 
+| Weekly Mentor Meeting Day | Wednesday | 
+| Weekly Mentor Meeting Time | 9-9:50 AM |
+| Weekly Mentor Meeting Location | Need room | 
 | | | 
 
 
@@ -45,16 +45,16 @@ There are two types of meetings that you need to schedule: Your Weekly Mentor me
 
 | Option #1 | | 
 | --- | --- | 
-| Meeting Day | | 
-| Meeting Time | | 
+| Meeting Day | Wednesday | 
+| Meeting Time | 1:30 - 2:20 PM | 
 
 
 | Option #2 | | 
 | --- | --- | 
-| Meeting Day | | 
-| Meeting Time | | 
+| Meeting Day | Friday  | 
+| Meeting Time | 9 - 9:50 AM | 
 
 | Option #3 | | 
 | --- | --- | 
-| Meeting Day | | 
-| Meeting Time | | 
+| Meeting Day | Friday | 
+| Meeting Time | 2 - 2:50 | 
