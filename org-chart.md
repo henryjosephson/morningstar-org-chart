@@ -9,9 +9,10 @@ Note that if there are any issues filling this out with unresponsive group mates
 | --- | --- | 
 | Name of Project: | | 
 | Name of students in clinic: | Henry Josephson | 
-| | [Name #2] | 
-| | [Name #3]
-| | [Name #4]
+| | Jonathan Huang | 
+| | Aren Mizuno |
+| | Kevin Liu |
+
 | Name of Teaching Assistant (if applicable): | Grace Shao |
 | Name of your Faculty Mentor: | Tim Hannifan | 
 
